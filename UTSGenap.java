@@ -64,6 +64,7 @@ public class UTSGenap {
                 } else if (ukuranKaleng == 2){
                     hargaSatuanBarang = 20000;
                     hargaHarusBayar += hargaSatuanBarang;
+                    jenisSusu = "Dancow";
                     jenisUkuranKaleng = "Sedang";
                     System.out.println("=============================");
                     System.out.println("Jenis Susu: " + jenisSusu);
@@ -82,6 +83,7 @@ public class UTSGenap {
                 } else if (ukuranKaleng == 3){
                     hargaSatuanBarang = 25000;
                     hargaHarusBayar += hargaSatuanBarang;
+                    jenisSusu = "Dancow";
                     jenisUkuranKaleng = "Besar";
                     System.out.println("=============================");
                     System.out.println("Jenis Susu: " + jenisSusu);
@@ -123,6 +125,7 @@ public class UTSGenap {
                 } else if (ukuranKaleng == 2){
                     hargaSatuanBarang = 17500;
                     hargaHarusBayar += hargaSatuanBarang;
+                    jenisSusu = "Bendera"; 
                     jenisUkuranKaleng = "Sedang";
                     System.out.println("=============================");
                     System.out.println("Jenis Susu: " + jenisSusu);
@@ -141,6 +144,7 @@ public class UTSGenap {
                 } else if (ukuranKaleng == 3){
                     hargaSatuanBarang = 20000;
                     hargaHarusBayar += hargaSatuanBarang;
+                    jenisSusu = "Bendera"; 
                     jenisUkuranKaleng = "Besar";
                     System.out.println("=============================");
                     System.out.println("Jenis Susu: " + jenisSusu);
@@ -182,6 +186,7 @@ public class UTSGenap {
                 } else if (ukuranKaleng == 2){
                     hargaSatuanBarang = 18500;
                     hargaHarusBayar += hargaSatuanBarang;
+                    jenisSusu = "SGM"; 
                     jenisUkuranKaleng = "Sedang";
                     System.out.println("=============================");
                     System.out.println("Jenis Susu: " + jenisSusu);
@@ -200,6 +205,7 @@ public class UTSGenap {
                 } else if (ukuranKaleng == 3){
                     hargaSatuanBarang = 22000;
                     hargaHarusBayar += hargaSatuanBarang;
+                    jenisSusu = "SGM"; 
                     jenisUkuranKaleng = "Besar";
                     System.out.println("=============================");
                     System.out.println("Jenis Susu: " + jenisSusu);
